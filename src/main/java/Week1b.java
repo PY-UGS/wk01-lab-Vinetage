@@ -2,7 +2,7 @@
 
 public class Week1b
 {
-    public static void main(String arg[])
+    public static void main(String args[])
     {
         String module = "CSC1009";
         switch(module)
